@@ -1,0 +1,18 @@
+.container
+  .columns
+    .column.col-10.col-mx-auto
+      table.table
+        thead
+          tr
+            th Fichiers
+            th Date
+        tbody
+          each file in data.files
+            tr
+              td= file[0]
+              td= file[1]
+
+.container(style="margin-top:5px")
+  .columns
+    .column.col-2.col-mx-auto
+      button( id="analyse" class="btn btn-primary") OK

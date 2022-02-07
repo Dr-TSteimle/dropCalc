@@ -1,0 +1,28 @@
+{
+  "name": "dropCalc",
+  "version": "1.0",
+  "license": "MIT",
+  "buid": {
+    "appId":"com.electron.dropCalc"
+  },
+  "scripts": {
+    "dev": "electron-webpack dev",
+    "compile": "electron-webpack",
+    "dist": "yarn compile && electron-builder",
+    "dist:dir": "yarn dist --dir -c.compression=store -c.mac.identity=null"
+  },
+  "dependencies": {
+    "csv-parser": "^2.3.0",
+    "fs-jetpack": "^2.2.2",
+    "jquery": "^3.4.1",
+    "node-excel-export": "^1.4.4",
+    "pug": "^2.0.3",
+    "source-map-support": "^0.5.10"
+  },
+  "devDependencies": {
+    "electron": "4.0.1",
+    "electron-builder": "20.38.4",
+    "electron-webpack": "^2.6.2",
+    "webpack": "4.28.4"
+  }
+}
