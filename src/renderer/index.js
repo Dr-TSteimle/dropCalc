@@ -1,15 +1,3 @@
-// dossiers qui marchent
-// - M:\BM\BM - DDPCR\2018_DDPCR\05 MAI DDPCR\180531 AP
-// - M:\BM\BM - DDPCR\2018_DDPCR\03 MARS DDPCR\180314-DDPCR-JBF
-// - M:\BM\BM - DDPCR\2018_DDPCR\05 MAI DDPCR\180531 AP
-// erreurs multiples M:\BM\BM - DDPCR\2018_DDPCR\09 SEPTEMBRE\180906 DDPCR JBF
-// erreur de renseignement albu M:\BM\BM - DDPCR\2019_DDPCR\190115 DDPCR FL
-
-
-
-//// TODO:
-// - Mode opé
-
 'use strict';
 
 // jetpack
