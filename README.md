@@ -4,7 +4,7 @@
 
 ## :speech_balloon: Description
 
-Electron app based on [`electron-webpack`](https://github.com/electron-userland/electron-webpack) for easily generating results and enforcing guidelines of raw [`ddPCR`](https://en.wikipedia.org/wiki/Digital_polymerase_chain_reaction) QX200 automat csv output.
+Electron app based on [`electron-webpack`](https://github.com/electron-userland/electron-webpack) for easily generating results and enforcing guidelines of raw [`ddPCR`](https://en.wikipedia.org/wiki/Digital_polymerase_chain_reaction) [`QX200 Droplet Digital PCR System`](QX200 Droplet Digital PCR System) csv output.
 
 ## :sparkles: Getting Started
 Simply clone down this repository, install dependencies, and get started on your application.
